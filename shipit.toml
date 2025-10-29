@@ -1,0 +1,6 @@
+[build]
+provider = "static"
+command = ""
+
+[static]
+dir = "public"
